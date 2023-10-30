@@ -1,0 +1,31 @@
+#primertitulo{
+    color: rebeccapurple;
+}
+.elprimerparrafo{
+    color: red;
+}
+.elsegundoparrafo{
+    color: green;
+}
+.eltercerparrafo{
+    color: gold;
+}
+.elcuartoparrafo{
+    color: orangered;
+}
+.elquintoparrafo{
+    color: deeppink;
+}
+.elsextoparrafo{
+    color: lightseagreen;
+}
+.elseptimoparrafo{
+    color: royalblu
+    e;
+}
+
+/*ole sapo perro.*/
+
+*{
+    background-color: rgb(25, 160, 197);
+}
